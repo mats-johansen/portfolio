@@ -42,6 +42,7 @@ html {
 
 .logo {
   padding: 2px;
+  height: 35px;
 }
 
 .hero-logos {
@@ -237,6 +238,10 @@ html {
   align-items: center;
   justify-content: space-evenly;
   padding: 5px;
+}
+
+.contact-logo {
+  height: 20px;
 }
 
 
